@@ -1,3 +1,3 @@
 # buildingBytes
 Turning algorithm into Codes....
-This is the Read me associated with building bytes
+This is the Read me associated with bytesEdits
